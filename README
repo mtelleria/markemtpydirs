@@ -1,0 +1,13 @@
+This repository contains a simple python script with simplifyed
+functionality of:
+
+https://git.wiki.kernel.org/index.php/MarkEmptyDirs
+
+The original one is written in C# and requires mono libraries.  Since
+I couldn't find the source code and the only downloadable file is a
+windows binary (at first glance) I decided to create my own.
+
+It is also a simple learning exercise for writing python files that
+manage source directories and take command-line arguments.
+
+
